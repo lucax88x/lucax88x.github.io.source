@@ -12,7 +12,7 @@ One day, I was working on a folder, and suddenly my git was blaming me because t
 
 I went on the file system, I found that folder, and then I deleted the content of this folder. 
 
-*I obviously used SHIFT+DEL, and I didn't commmit.*
+*I obviously used SHIFT+DEL, and I didn't commit.*
 
 Great, I then went back to the correct folder in order to resume my work. **It was empty. NADA. VOID.**
 
