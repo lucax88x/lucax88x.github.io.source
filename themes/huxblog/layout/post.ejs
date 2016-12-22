@@ -41,10 +41,11 @@ layout: layout
                 col-md-10 col-md-offset-1
                 post-container post-white">
 
-                <%- page.content %>
+                <div class="post">
+                    <%- page.content %>
+                </div>
 
                 <hr>
-
 
                 <ul class="pager">
                     <% if (page.prev){ %>
@@ -58,6 +59,7 @@ layout: layout
                         </li>
                     <% } %>
                 </ul>
+                
 
                 <% if(config['disqus_username']) { %>
                 
