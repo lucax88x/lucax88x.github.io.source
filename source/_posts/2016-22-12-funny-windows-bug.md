@@ -2,6 +2,7 @@
 layout: post
 title: "Funny Windows bug when using Git Bash"
 author: <a href="https://github.com/lucax88x/">Luca Trazzi</a>
+date: 2016-12-22 18:03:51
 tags:
 - gif
 - funny

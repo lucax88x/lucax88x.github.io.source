@@ -2,6 +2,7 @@
 layout: post
 title: "Autofac And Primitive Obsession: How I Learned To Love The Injection Of Configuration Parameters"
 author: <a href="https://arialdomartini.github.io">Arialdo Martini</a>, <a href="https://github.com/lucax88x/">Luca Trazzi</a>
+date: 2016-11-21 14:52:12
 tags:
 - C#
 - IoC
